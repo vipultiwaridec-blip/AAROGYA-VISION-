@@ -1,5 +1,5 @@
 # Aarogya Vision
-
+DEMO LINK - https://aarogya-b3uc7sue.manus.space
 React / Express / tRPC / Drizzle starter, adapted from the Sandbox web-db-user template.
 
 - `pnpm dev`: development server; honors `PORT` (default 3000).
