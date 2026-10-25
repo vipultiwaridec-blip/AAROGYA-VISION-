@@ -141,7 +141,10 @@ The precise stack could not be verified from the deployed page alone. Fill in th
 
 | Layer | Technology |
 |---|---|
-| Frontend framework | To be confirmed from source |
+| Frontend framework | React 19
+TypeScript 5.9
+Vite 7
+Tailwind CSS 4 |
 | Language | To be confirmed from source |
 | Styling/UI library | To be confirmed from source |
 | Backend/API | To be confirmed; may not be present |
