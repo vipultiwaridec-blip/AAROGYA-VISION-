@@ -141,7 +141,7 @@ The precise stack could not be verified from the deployed page alone. Fill in th
 
 | Layer | Technology |
 |---|---|
-| Frontend framework | React 19,TypeScript 5.9,Vite 7,Tailwind CSS 4 |
+| Frontend framework | React 19,TypeScript 5.9,Vite 7,Tailwind CSS 4 e.t.c |
 | Language | HTML,CSSS,JAVA |
 | Styling/UI library | React UI , LUCID REACT |
 | Backend/API |Node.js,Express 4,TypeScript executed with tsx,tRPC 11 for typed backend procedures |
